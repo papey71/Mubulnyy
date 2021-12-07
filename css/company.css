@@ -1,0 +1,910 @@
+@media screen and (max-width: 1920px) and (orientation: landscape) {
+    .menu-burger {
+        display: none;
+    }
+
+    .header-logo-phone {
+        display: none;
+    }
+
+    .header-logo-phone {
+        display: none;
+    }
+
+    .footer-logo-phone {
+        display: none;
+    }
+
+    .menu-phone {
+        display: none;
+    }
+
+    body {
+        margin: 0 auto;
+        padding: 0 auto;
+        font-family: 'Montserrat', sans-serif;
+        width: 1920px;
+        overflow-x: hidden;
+
+        -moz-user-select: none;
+        -o-user-select:none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+    
+                            /* header */
+    
+    .header1-bg {
+        position: absolute;
+        width: 1920px;
+        height: 27px;
+        left: 0px;
+        top: 0px;
+        background-color: #522828;
+        z-index: -1;
+    }
+
+    .header-img1 {
+        position: absolute;
+        top: 4px;
+        left: 370px;
+    }
+    
+    .header-img2 {
+        position: absolute;
+        top: 4px;
+        left: 399px;
+    }
+
+    .header-img3 {
+        position: absolute;
+        top: 4px;
+        left: 428px;
+    }
+
+    .header1 a {
+        width: 197px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF; 
+    }
+
+    .a1 {
+        position: absolute;
+        left: 770px;
+        top: 6px;
+    }
+
+    .header-phone {
+        position: absolute;
+        top: 5px;
+        left: 1070px;
+    }
+
+    .a2 {
+        position: absolute;
+        left: 1097px;
+        top: 6px;
+    }
+
+    .a3 {
+        position: absolute;
+        left: 1209px;
+        top: 6px;
+    }
+
+    .header-email {
+        position: absolute;
+        top: 5px;
+        left: 1367px;
+    }
+
+    .a4 {
+        position: absolute;
+        left: 1394px;
+        top: 6px;
+    }
+
+    .header2-bg {
+        position: absolute;
+        width: 1920px;
+        height: 126px;
+        left: 0px;
+        top: 0px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+        z-index: -2;
+    }
+
+    .header-logo {
+        position: absolute;
+        left: 370px;
+        top: 44px;
+    }
+
+    .header-button {
+        position: absolute;
+        width: 700px;
+        left: 973px;
+        top: 67px;
+    }
+
+    .header-button a {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 27px;
+        line-height: 33px;
+        color: #440000;
+        margin-right: 44px;
+    }
+
+                            /* section1 */
+
+    .company-menu {
+        position: fixed;
+        left: 370px;
+        top: 197px;
+        height: 500px;
+        width: 271px;
+        justify-content: space-around;
+    }
+
+    .company-menu a {
+        width: 271px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 18px;
+        line-height: 22px;
+        color: #000000;
+    }
+
+    .company-menu .a1 {
+        position: absolute;
+        left: 0;
+        top: 80px;
+    }
+    .company-menu .a2 {
+        position: absolute;
+        left: 0;
+        top: 127px;
+    }
+    .company-menu .a3 {
+        position: absolute;
+        left: 0;
+        top: 174px;
+    }
+    .company-menu .a4 {
+        position: absolute;
+        left: 0;
+        top: 221px;
+    }
+    .company-menu .a5 {
+        position: absolute;
+        left: 0;
+        top: 268px;
+    }
+    .company-menu .a6 {
+        position: absolute;
+        left: 0;
+        top: 315px;
+    }
+    .company-menu .a7 {
+        position: absolute;
+        left: 0;
+        top: 362px;
+    }
+    .company-menu .a8 {
+        position: absolute;
+        left: 0;
+        top: 409px;
+    }
+    .company-menu .a9 {
+        position: absolute;
+        left: 0;
+        top: 456px;
+    }
+
+    .company-menu .h1 {
+        position: absolute;
+        width: 265px;
+        left: 0;
+        top: 0;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 40px;
+        line-height: 49px;
+        color: #440000;
+    }
+
+                            /* section2 */
+
+    .contant {
+        position: absolute;
+        width: 893px;
+        height: 2521px;
+        left: 670px;
+        top: 242px;
+        z-index: -1;
+    }
+
+    .contant .h1, .h2, .h3, .h4, .h5, .h6, .h7, .h8, .h9 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 90px;
+        color: #440000;
+    }
+
+    .contant .p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 140%;
+        color: #000000;
+    }
+
+    header {
+        position: fixed;
+    }
+
+                            /* footer */
+
+    .footer-bg {
+        position: absolute;
+        width: 1920px;
+        height: 527px;
+        left: 0px;
+        top: 2900px;
+        background-color: #522828;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+    }
+
+    .footer-logo {
+        position: absolute;
+        left: 325px;
+        top: 3018px;
+    }
+
+    .more {
+        position: absolute;
+        left: 670px;
+        top: 3012px;
+    }
+
+    .more .h1 {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .more-a a {
+        width: 130px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        color: #FFFFFF;
+        margin-bottom: 15px;
+    }
+
+    .more .a1 {
+        position: absolute;
+        left: 0;
+        top: 40px;
+    }
+
+    .more .a2 {
+        position: absolute;
+        left: 0;
+        top: 75px;
+    }
+
+    .more .a3 {
+        position: absolute;
+        left: 0;
+        top: 110px;
+    }
+
+    .more .a4 {
+        position: absolute;
+        left: 0;
+        top: 145px;
+    }
+
+    .contacts {
+        position: absolute;
+        left: 831px;
+        top: 3012px;
+    }
+
+    .contacts .h1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1, .a2 {
+        width: 110px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1 {
+        position: absolute;
+        left: 0;
+        top: 45px;
+    }
+
+    .contacts .a2 {
+        position: absolute;
+        left: 0;
+        top: 80px;
+    }
+
+    .socseti {
+        position: absolute;
+        left: 1304px;
+        top: 3012px;
+    }
+
+    .socseti .h1 {
+        position: absolute;
+        width: 150px;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .footer-img .a1 {
+        position: absolute;
+        top: 45px;
+        left: 0;
+    }
+
+    .footer-img .a2 {
+        position: absolute;
+        top: 46px;
+        left: 35px;
+    }
+
+    .footer-img .a3 {
+        position: absolute;
+        top: 47px;
+        left: 78px;
+    }
+
+    .footer-img .a4 {
+        position: absolute;
+        top: 47px;
+        left: 115px;
+    }
+
+    .footer-line {
+        position: absolute;
+        width: 1072px;
+        height: 1px;
+        left: 424px;
+        top: 3290px;
+        background-color: #b1b1b1;
+    }
+
+    footer .h1 {
+        position: absolute;
+        left: 817px;
+        top: 3321px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+}
+
+@media screen and (max-width: 1440px) and (orientation: landscape) {
+    .header1-bg {
+        width: 1440px;
+    }
+
+    .header-img1 {
+        left: 130px;
+    }
+
+    .header-img2 {
+        left: 159px;
+    }
+
+    .header-img3 {
+        left: 188px;
+    }
+
+    .a1 {
+        left: 530px;
+    }
+
+    .header-phone {
+        left: 830px;
+    }
+
+    .a2 {
+        left: 857px;
+    }
+
+    .a3 {
+        left: 963px;
+    }
+
+    .header-email {
+        left: 1127px;
+    }
+
+    .a4 {
+        left: 1154px;
+    }
+
+    .header2-bg {
+        width: 1440px;
+    }
+
+    .header-logo {
+        left: 130px;
+    }
+
+    .header-button {
+        left: 733px;
+    }
+
+    .company-menu {
+        left: 130px;
+    }
+
+    .contant {
+        left: 430px;
+    }
+
+    .footer-bg {
+        width: 1440px;
+    }
+
+    .footer-logo {
+        left: 85px;
+    }
+
+    .more {
+        left: 430px;
+    }
+
+    .contacts {
+        left: 591px;
+    }
+
+    .socseti {
+        left: 1064px;
+    }
+
+    .footer-line {
+        left: 184px;
+    }
+
+    footer .h1 {
+        left: 577px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    .header-button {
+        display: none;
+    }
+    
+    .header-img1 {
+        display: none;
+    }
+
+    .header-img2 {
+        display: none;
+    }
+
+    .header-img3 {
+        display: none;
+    }
+
+    .header1 .a1 {
+        display: none;
+    }
+
+    .header1 .a2 {
+        display: none;
+    }
+
+    .header-logo {
+        display: none;
+    }
+
+    .footer-logo {
+        display: none;
+    }
+    
+    .header1-bg {
+        position: absolute;
+        width: 428px;
+        height: 27px;
+        left: 0px;
+        top: 0px;
+        background-color: #522828;
+        z-index: -1;
+    }
+
+    .header-phone {
+        position: absolute;
+        top: 5px;
+        left: 39px;
+    }
+
+    .header1 a {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF; 
+    }
+
+    .a3 {
+        position: absolute;
+        left: 71px;
+        top: 6px;
+        width: 102px;
+    }
+
+    .header-email {
+        position: absolute;
+        top: 5px;
+        left: 206px;
+    }
+
+    .a4 {
+        position: absolute;
+        left: 233px;
+        top: 6px;
+    }
+
+    .header2-bg {
+        position: absolute;
+        width: 428px;
+        height: 126px;
+        left: 0px;
+        top: 0px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+        z-index: -2;
+    }
+
+    .header-logo-phone {
+        position: absolute;
+        left: 34px;
+        top: 53px;
+    }
+
+    .img-content-bg-phone {
+        position: fixed;
+        left: 0px;
+        top: 0px;
+        z-index: -3;
+    }
+
+    .menu-burger {
+        position: absolute;
+        left: 346px;
+        top: 61px;        
+    }
+
+    .main-content-bg {
+        position: absolute;
+        width: 428px;
+        height: 2540px;
+        left: 0px;
+        top: 746px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+    }
+
+    .company-menu {
+        display: none;
+    }
+
+    .contant {
+        position: absolute;
+        width: 362px;
+        height: 2990px;
+        left: 39px;
+        top: 161px;
+        z-index: -1;
+    }
+
+    .contant .h1, .h2, .h3, .h4, .h5, .h6, .h7, .h8, .h9 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 70px;
+        color: #440000;
+    }
+
+    .contant .p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 140%;
+        color: #000000;
+    }
+
+    header {
+        position: fixed;
+        top: 0;
+        left: 0;
+    }
+
+    .footer-bg {
+        position: absolute;
+        width: 428px;
+        height: 510px;
+        left: 0px;
+        top: 3130px;
+        background-color: #522828;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+    }
+
+    .footer-logo-phone {
+        position: absolute;
+        top: 3189px;
+        left: 39px;
+    }
+
+    .more {
+        position: absolute;
+        left: 279px;
+        top: 3285px;
+    }
+
+    .more .h1 {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .more-a a {
+        width: 120px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        color: #FFFFFF;
+        margin-bottom: 15px;
+    }
+
+    .more .a1 {
+        position: absolute;
+        left: 0;
+        top: 40px;
+    }
+
+    .more .a2 {
+        position: absolute;
+        left: 0;
+        top: 75px;
+    }
+
+    .more .a3 {
+        position: absolute;
+        left: 0;
+        top: 110px;
+    }
+
+    .more .a4 {
+        position: absolute;
+        left: 0;
+        top: 145px;
+    }
+
+    .contacts {
+        position: absolute;
+        left: 39px;
+        top: 3394px;
+    }
+
+    .contacts .h1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1, .a2 {
+        width: 110px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1 {
+        position: absolute;
+        left: 0;
+        top: 45px;
+    }
+
+    .contacts .a2 {
+        position: absolute;
+        left: 0;
+        top: 80px;
+    }
+
+    .socseti {
+        position: absolute;
+        left: 39px;
+        top: 3285px;
+    }
+
+    .socseti .h1 {
+        position: absolute;
+        width: 150px;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .footer-img .a1 {
+        position: absolute;
+        top: 45px;
+        left: 0;
+    }
+
+    .footer-img .a2 {
+        position: absolute;
+        top: 46px;
+        left: 35px;
+    }
+
+    .footer-img .a3 {
+        position: absolute;
+        top: 47px;
+        left: 78px;
+    }
+
+    .footer-img .a4 {
+        position: absolute;
+        top: 47px;
+        left: 115px;
+    }
+
+    .footer-line {
+        position: absolute;
+        width: 300px;
+        height: 1px;
+        left: 64px;
+        top: 3537px;
+        background-color: #b1b1b1;
+    }
+
+    footer .h1 {
+        position: absolute;
+        left: 71px;
+        top: 3568px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .menu-phone {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 100;
+    }
+
+    .menu-phone .menu-bg {
+        position: absolute;
+        width: 315px;
+        height: 900px;
+        left: 0px;
+        top: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+
+    .menu-phone .menu-logo {
+        position: absolute;
+        left: 34px;
+        top: 53px;
+    }
+
+    .menu-button {
+        position: absolute;
+        left: 39px;
+        top: 164px;
+    }
+
+    .menu-button div {
+        margin-top: 30px;
+    }
+
+    .menu-button a {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+
+    .show-menu {
+        display: block;
+    }
+}

@@ -1,0 +1,1674 @@
+@media screen and (max-width: 1920px) and (orientation: landscape) {
+    .menu-phone {
+        display: none;
+    }
+    
+    .menu-burger {
+        display: none;
+    }
+
+    .header-logo-phone {
+        display: none;
+    }
+
+    .product-img1 img {
+        display: none;
+    }
+
+    .product-img2 img {
+        display: none;
+    }
+
+    .product-img3 img {
+        display: none;
+    }
+
+    .footer-logo-phone {
+        display: none;
+    }
+
+    body {
+        margin: 0 auto;
+        padding: 0 auto;
+        font-family: 'Montserrat', sans-serif;
+        width: 1920px;
+        overflow-x: hidden;
+
+        -moz-user-select: none;
+        -o-user-select:none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+    
+                            /* header */
+    
+    .header1-bg {
+        position: absolute;
+        width: 1920px;
+        height: 27px;
+        left: 0px;
+        top: 0px;
+        background-color: #522828;
+        z-index: -1;
+    }
+
+    .header-img1 {
+        position: absolute;
+        top: 4px;
+        left: 370px;
+    }
+    
+    .header-img2 {
+        position: absolute;
+        top: 4px;
+        left: 399px;
+    }
+
+    .header-img3 {
+        position: absolute;
+        top: 4px;
+        left: 428px;
+    }
+
+    .header1 a {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF; 
+    }
+
+    .a1 {
+        position: absolute;
+        left: 770px;
+        top: 6px;
+    }
+
+    .header-phone {
+        position: absolute;
+        top: 5px;
+        left: 1070px;
+    }
+
+    .a2 {
+        position: absolute;
+        left: 1097px;
+        top: 6px;
+    }
+
+    .a3 {
+        position: absolute;
+        left: 1209px;
+        top: 6px;
+    }
+
+    .header-email {
+        position: absolute;
+        top: 5px;
+        left: 1367px;
+    }
+
+    .a4 {
+        position: absolute;
+        left: 1394px;
+        top: 6px;
+    }
+
+    .header2-bg {
+        position: absolute;
+        width: 1920px;
+        height: 126px;
+        left: 0px;
+        top: 0px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+        z-index: -2;
+    }
+
+    .header-logo {
+        position: absolute;
+        left: 370px;
+        top: 44px;
+    }
+
+    .header-button {
+        position: absolute;
+        left: 973px;
+        top: 67px;
+    }
+
+    .header-button a {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 27px;
+        line-height: 33px;
+        color: #440000;
+        margin-right: 44px;
+    }
+
+                            /* section1 */
+
+    .product .h1 {
+        position: absolute;
+        left: 870px;
+        top: 176px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 35px;
+        line-height: 43px;
+        color: #440000;
+    }
+
+    .product-img {
+        position: absolute;
+        left: 370px;
+        top: 229px;
+        box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+        height: 337px;
+    }
+
+    .specifications-bg-line1 {
+        position: absolute;
+        width: 310px;
+        height: 36px;
+        left: 850px;
+        top: 266px;
+        background-color: #F3F3F3;
+        z-index: -1;
+    }
+
+    .specifications-bg-line2 {
+        position: absolute;
+        width: 310px;
+        height: 36px;
+        left: 850px;
+        top: 352px;
+        background-color: #F3F3F3;
+        z-index: -1;
+    }
+
+    .specifications-line1 {
+        position: absolute;
+        width: 135px;
+        height: 1px;
+        left: 933px;
+        top: 290px;
+        background-color: #DBDBDB;
+    }
+
+    .specifications-line2 {
+        position: absolute;
+        width: 137px;
+        height: 1px;
+        left: 931px;
+        top: 333px;
+        background-color: #DBDBDB;
+    }
+
+    .specifications-line3 {
+        position: absolute;
+        width: 143px;
+        height: 1px;
+        left: 925px;
+        top: 376px;
+        background-color: #DBDBDB;
+    }
+
+    .specifications-line4 {
+        position: absolute;
+        width: 121px;
+        height: 1px;
+        left: 947px;
+        top: 419px;
+        background-color: #DBDBDB;
+    }
+
+    .specifications .h1 {
+        position: absolute;
+        left: 870px;
+        top: 229px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 24px;
+        color: #000000;
+    }
+
+    .settings-p1 {
+        font-family: 'PT Sans';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 22px;
+        color: #A1A1A1;
+    }
+
+    .settings-p2 {
+        font-family: 'PT Sans';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 22px;
+        color: #000000;
+    }
+
+    .specifications .p1-1 {
+        position: absolute;
+        left: 870px;
+        top: 273px;
+    }
+
+    .specifications .p1-2 {
+        position: absolute;
+        left: 1070px;
+        top: 273px;
+    }
+
+    .specifications .p2-1 {
+        position: absolute;
+        left: 870px;
+        top: 316px;
+    }
+
+    .specifications .p2-2 {
+        position: absolute;
+        left: 1070px;
+        top: 316px;
+    }
+
+    .specifications .p3-1 {
+        position: absolute;
+        left: 870px;
+        top: 359px;
+    }
+
+    .specifications .p3-2 {
+        position: absolute;
+        left: 1070px;
+        top: 359px;
+    }
+
+    .specifications .p4-1 {
+        position: absolute;
+        left: 870px;
+        top: 402px;
+    }
+
+    .specifications .p4-2 {
+        position: absolute;
+        left: 1070px;
+        top: 402px;
+    }
+
+    .specifications .p5 {
+        position: absolute;
+        left: 870px;
+        top: 448px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 17px;
+        line-height: 21px;
+        color: #000000;
+    }
+
+    .price {
+        position: absolute;
+        left: 1270px;
+        top: 229px;
+    }
+
+    .price-bg {
+        position: absolute;
+        width: 280px;
+        height: 264px;
+        left: 0;
+        top: 0;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 5px 1px rgba(0, 0, 0, 0.15);
+        border-radius: 15px;
+    }
+
+    .price .h1 {
+        position: absolute;
+        width: 136px;
+        left: 27px;
+        top: 30px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 37px;
+        color: #008826;
+    }
+
+    .price-line1 {
+        position: absolute;
+        width: 226px;
+        height: 1px;
+        left: 27px;
+        top: 111px;
+        background-color: #AFAFAF;
+    }
+
+    .price-line2 {
+        position: absolute;
+        width: 226px;
+        height: 1px;
+        left: 27px;
+        top: 148px;
+        background-color: #AFAFAF;
+    }
+
+    .input1 input {
+        position: absolute;
+        width: 218px;
+        height: 18px;
+        left: 31px;
+        top: 92px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #AFAFAF;
+        outline: none;
+        border: none;
+        background: none;
+    }
+
+    .input1 .label {
+        position: absolute;
+        width: 109px;
+        left: 31px;
+        top: 92px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #AFAFAF;
+    }
+
+    .input1 input:focus ~ .label,
+    .input1 input:not(:placeholder-shown) ~ .label {
+        display: none;
+    }
+
+    .input2 input {
+        position: absolute;
+        width: 218px;
+        height: 18px;
+        left: 31px;
+        top: 129px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #AFAFAF;
+        outline: none;
+        border: none;
+        background: none;
+    }
+
+    .input2 .label {
+        position: absolute;
+        width: 132px;
+        left: 31px;
+        top: 129px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #AFAFAF;
+    }
+
+    .input2 input:focus ~ .label,
+    .input2 input:not(:placeholder-shown) ~ .label {
+        display: none;
+    }
+
+    .price .p1 {
+        position: absolute;
+        width: 73px;
+        height: 16px;
+        left: 27px;
+        top: 168px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 16px;
+        color: #000000;
+    }
+
+    .button1 {
+        position: absolute;
+        width: 244px;
+        height: 54px;
+        left: 18px;
+        top: 192px;
+        background-color: #008826;
+        border-radius: 17px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .button1 .a1 {
+        position: absolute;
+        left: 85px;
+        top: 10px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 27px;
+        line-height: 33px;
+        color: #FFFFFF;
+    }
+
+    .button1 img {
+        position: absolute;
+        left: 55px;
+        top: 17px;
+    }
+
+    .product-chest .h1 {
+        position: absolute;
+        left: 370px;
+        top: 627px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 35px;
+        line-height: 43px;
+        color: #440000;
+    }
+
+    .chest1 {
+        position: absolute;
+        left: 370px;
+        top: 695px;
+    }
+
+    .chest2 {
+        position: absolute;
+        left: 670px;
+        top: 695px;
+    }
+
+    .chest3 {
+        position: absolute;
+        left: 970px;
+        top: 695px;
+    }
+
+    .chest4 {
+        position: absolute;
+        left: 1270px;
+        top: 695px;
+    }
+
+    .bg-chest {
+        position: absolute;
+        width: 280px;
+        height: 498px;
+        left: 0px;
+        top: 0px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .img-comod {
+        position: absolute;
+        left: 0px;
+        top: 40px;        
+        z-index: 100;
+    }
+
+    .chest-line {
+        position: absolute;
+        width: 280px;
+        height: 1px;
+        left: 0px;
+        top: 269px;
+        background-color: #CDCDCD;
+    }
+
+    .chest-h1 {
+        position: absolute;
+        width: 250px;
+        left: 15px;
+        top: 292px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 15px;
+        line-height: 18px;
+        color: #440000;
+    }
+
+    .stars {
+        position: absolute;
+        left: 15px;
+        top: 315px;
+    }
+    
+    .chest-p1 {
+        position: absolute;
+        width: 116px;
+        left: 95px;
+        top: 320px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 10px;
+        line-height: 12px;
+        color: #888888;
+    }
+
+    .chest-p2 {
+        position: absolute;
+        width: 191px;
+        left: 15px;
+        top: 350px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 15px;
+        color: #414141;
+    }
+
+    .chest-h2 {
+        position: absolute;
+        width: 156px;
+        left: 15px;
+        top: 387px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 27px;
+        color: #008826;
+    }
+
+    .chest-button {
+        position: absolute;
+        width: 185px;
+        height: 46px;
+        left: 15px;
+        top: 432px;
+        background: #008826;
+        border-radius: 0px 13px;
+    }
+
+    .chest-a1 {
+        position: absolute;
+        width: 151px;
+        left: 32px;
+        top: 444px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+    
+                            /* footer */
+    
+
+    .footer-bg {
+        position: absolute;
+        width: 1920px;
+        height: 527px;
+        left: 0px;
+        top: 1243px;
+        background-color: #522828;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+    }
+
+    .footer-logo {
+        position: absolute;
+        left: 325px;
+        top: 1360px;
+    }
+
+    .more {
+        position: absolute;
+        left: 670px;
+        top: 1354px;
+    }
+
+    .more .h1 {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .more-a a {
+        width: 130px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        color: #FFFFFF;
+        margin-bottom: 15px;
+    }
+
+    .more .a1 {
+        position: absolute;
+        left: 0;
+        top: 40px;
+    }
+
+    .more .a2 {
+        position: absolute;
+        left: 0;
+        top: 75px;
+    }
+
+    .more .a3 {
+        position: absolute;
+        left: 0;
+        top: 110px;
+    }
+
+    .more .a4 {
+        position: absolute;
+        left: 0;
+        top: 145px;
+    }
+
+    .contacts {
+        position: absolute;
+        left: 831px;
+        top: 1354px;
+    }
+
+    .contacts .h1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1, .a2 {
+        width: 110px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1 {
+        position: absolute;
+        left: 0;
+        top: 45px;
+    }
+
+    .contacts .a2 {
+        position: absolute;
+        left: 0;
+        top: 80px;
+    }
+
+    .socseti {
+        position: absolute;
+        left: 1304px;
+        top: 1354px;
+    }
+
+    .socseti .h1 {
+        position: absolute;
+        width: 150px;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .footer-img .a1 {
+        position: absolute;
+        top: 45px;
+        left: 0;
+    }
+
+    .footer-img .a2 {
+        position: absolute;
+        top: 46px;
+        left: 35px;
+    }
+
+    .footer-img .a3 {
+        position: absolute;
+        top: 47px;
+        left: 78px;
+    }
+
+    .footer-img .a4 {
+        position: absolute;
+        top: 47px;
+        left: 115px;
+    }
+
+    .footer-line {
+        position: absolute;
+        width: 1072px;
+        height: 1px;
+        left: 424px;
+        top: 1632px;
+        background-color: #b1b1b1;
+    }
+
+    footer .h1 {
+        position: absolute;
+        left: 817px;
+        top: 1663px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+}
+
+@media screen and (max-width: 1440px) and (orientation: landscape) {
+    body {
+        max-width: 428px;
+    }
+    
+    .header1-bg {
+        width: 1440px;
+    }
+
+    .header-img1 {
+        left: 130px;
+    }
+
+    .header-img2 {
+        left: 159px;
+    }
+
+    .header-img3 {
+        left: 188px;
+    }
+
+    .a1 {
+        left: 530px;
+    }
+
+    .header-phone {
+        left: 830px;
+    }
+
+    .a2 {
+        left: 857px;
+    }
+
+    .a3 {
+        left: 963px;
+    }
+
+    .header-email {
+        left: 1127px;
+    }
+
+    .a4 {
+        left: 1154px;
+    }
+
+    .header2-bg {
+        width: 1440px;
+    }
+
+    .header-logo {
+        left: 130px;
+    }
+
+    .header-button {
+        left: 733px;
+    }
+
+                            /* section1 */
+
+    .product .h1 {
+        left: 630px;
+    }
+
+    .product-img {
+        left: 130px;
+    }
+
+    .specifications-bg-line1, .specifications-bg-line2 {
+        left: 610px;
+    }
+
+    .specifications-line1 {
+        left: 693px;
+    }
+
+    .specifications-line2 {
+        left: 691px;
+    }
+
+    .specifications-line3 {
+        left: 685px;
+    }
+
+    .specifications-line4 {
+        left: 707px;
+    }
+
+    .specifications .h1 {
+        left: 630px;
+    }
+
+    .specifications .settings-p1 {
+        left: 630px;
+    }
+
+    .specifications .settings-p2 {
+        left: 830px;
+    }
+
+    .specifications .p5 {
+        left: 630px;
+    }
+
+    .price {
+        left: 1030px;
+    }
+
+    .price .h1 {
+        left: 27px;
+    }
+
+    .product-chest .h1 {
+        left: 130px;
+    }
+    
+    .chest1 {
+        left: 130px;
+    }
+
+    .chest2 {
+        left: 430px;
+    }
+
+    .chest3 {
+        left: 730px;
+    }
+
+    .chest4 {
+        left: 1030px;
+    }
+
+                            /* footer */
+
+    .footer-bg {
+        width: 1440px;
+    }
+
+    .footer-logo {
+        left: 85px;
+    }
+
+    .more {
+        left: 430px;
+    }
+
+    .contacts {
+        left: 591px;
+    }
+
+    .socseti {
+        left: 1064px;
+    }
+
+    .footer-line {
+        left: 184px;
+    }
+
+    footer .h1 {
+        left: 577px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    .header-button {
+        display: none;
+    }
+    
+    .header-img1 {
+        display: none;
+    }
+
+    .header-img2 {
+        display: none;
+    }
+
+    .header-img3 {
+        display: none;
+    }
+
+    .header1 .a1 {
+        display: none;
+    }
+
+    .header1 .a2 {
+        display: none;
+    }
+
+    .header-logo {
+        display: none;
+    }
+
+    .footer-logo {
+        display: none;
+    }
+    
+    .header1-bg {
+        position: absolute;
+        width: 428px;
+        height: 27px;
+        left: 0px;
+        top: 0px;
+        background-color: #522828;
+        z-index: -1;
+    }
+
+    .header-phone {
+        position: absolute;
+        top: 5px;
+        left: 39px;
+    }
+
+    .header1 a {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF; 
+    }
+
+    .a3 {
+        position: absolute;
+        left: 71px;
+        top: 6px;
+    }
+
+    .header-email {
+        position: absolute;
+        top: 5px;
+        left: 206px;
+    }
+
+    .a4 {
+        position: absolute;
+        left: 233px;
+        top: 6px;
+    }
+
+    .header2-bg {
+        position: absolute;
+        width: 428px;
+        height: 126px;
+        left: 0px;
+        top: 0px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+        z-index: -2;
+    }
+
+    .header-logo-phone {
+        position: absolute;
+        left: 34px;
+        top: 53px;
+    }
+
+    .menu-burger {
+        position: absolute;
+        left: 346px;
+        top: 61px;        
+    }
+
+    .product .h1 {
+        position: absolute;
+        left: 39px;
+        top: 163px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 30px;
+        color: #440000;
+    }
+
+    .product-img {
+        position: absolute;
+        left: 39px;
+        top: 216px;
+        width: 170px;
+        height: 119px;
+        box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.15);
+    }
+
+    .product-img img {
+        width: 170px;
+        height: 119px;
+    }
+
+    .product-img1 {
+        position: absolute;
+        left: 39px;
+        top: 345px;
+        width: 50px;
+        height: 35px;
+        box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.15);
+    }
+
+    .product-img2 {
+        position: absolute;
+        left: 99px;
+        top: 345px;
+        width: 50px;
+        height: 35px;
+        box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.15);
+    }
+
+    .product-img3 {
+        position: absolute;
+        left: 159px;
+        top: 345px;
+        width: 50px;
+        height: 35px;
+        box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.15);
+    }
+
+    .product-img1 img {
+        width: 50px;
+        height: 35px;
+    }
+
+    .product-img2 img {
+        width: 50px;
+        height: 35px;
+    }
+
+    .product-img3 img {
+        width: 50px;
+        height: 35px;
+    }
+
+    .specifications-bg-line1 {
+        position: absolute;
+        width: 249px;
+        height: 29px;
+        left: 24px;
+        top: 428px;
+        background-color: #F3F3F3;
+    }
+
+    .specifications-bg-line2 {
+        position: absolute;
+        width: 249px;
+        height: 29px;
+        left: 24px;
+        top: 490px;
+        background-color: #F3F3F3;
+    }
+
+    .specifications-line1 {
+        position: absolute;
+        width: 133px;
+        height: 1px;
+        left: 84px;
+        top: 448px;
+        background-color: #DBDBDB;        
+    }
+
+    .specifications-line2 {
+        position: absolute;
+        width: 134px;
+        height: 1px;
+        left: 83px;
+        top: 479px;
+        background-color: #DBDBDB;        
+    }
+
+    .specifications-line3 {
+        position: absolute;
+        width: 138px;
+        height: 1px;
+        left: 79px;
+        top: 510px;        
+        background-color: #DBDBDB;        
+    }
+
+    .specifications-line4 {
+        position: absolute;
+        width: 122px;
+        height: 1px;
+        left: 94px;
+        top: 541px;
+        background-color: #DBDBDB;        
+    }
+
+    .specifications .h1 {
+        position: absolute;
+        left: 39px;
+        top: 400px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 18px;
+        color: #000000;
+    }
+
+    .specifications .settings-p1 {
+        font-family: 'PT Sans';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+        color: #A1A1A1;
+    }
+
+    .specifications .settings-p2 {
+        font-family: 'PT Sans';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 16px;
+        color: #000000;
+    }
+
+    .specifications .p1-1 {
+        position: absolute;
+        left: 39px;
+        top: 435px;
+    }
+
+    .specifications .p1-2 {
+        position: absolute;
+        left: 219px;
+        top: 435px;
+    }
+
+    .specifications .p2-1 {
+        position: absolute;
+        left: 39px;
+        top: 466px;
+    }
+
+    .specifications .p2-2 {
+        position: absolute;
+        left: 219px;
+        top: 466px;
+    }
+
+    .specifications .p3-1 {
+        position: absolute;
+        left: 39px;
+        top: 497px;
+    }
+
+    .specifications .p3-2 {
+        position: absolute;
+        left: 219px;
+        top: 497px;
+    }
+
+    .specifications .p4-1 {
+        position: absolute;
+        left: 39px;
+        top: 528px;
+    }
+
+    .specifications .p4-2 {
+        position: absolute;
+        left: 219px;
+        top: 528px;
+    }
+
+    .specifications .p5 {
+        position: absolute;
+        left: 39px;
+        top: 559px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 15px;
+        color: #000000;
+    }
+
+    .price {
+        position: absolute;
+        left: 219px;
+        top: 216px;        
+    }
+
+    .price-bg {
+        position: absolute;
+        width: 170px;
+        height: 161px;
+        left: 0px;
+        top: 0px;
+        background-color: #FFFFFF;
+        box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+        border-radius: 15px;
+    }
+
+    .price .h1 {
+        position: absolute;
+        width: 91px;
+        left: 19px;
+        top: 16px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 24px;
+        color: #008826;
+    }
+
+    .price-line1 {
+        position: absolute;
+        width: 132px;
+        height: 1px;
+        left: 19px;
+        top: 75px;
+        background-color: #AFAFAF;
+    }
+
+    .price-line2 {
+        position: absolute;
+        width: 132px;
+        height: 1px;
+        left: 19px;
+        top: 96px;
+        background-color: #AFAFAF;
+    }
+
+    .input1 input {
+        position: absolute;
+        width: 218px;
+        height: 18px;
+        left: 23px;
+        top: 58px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+        color: #AFAFAF;
+        outline: none;
+        border: none;
+        background: none;
+    }
+
+    .input1 .label {
+        position: absolute;
+        width: 109px;
+        left: 23px;
+        top: 58px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+        color: #AFAFAF;
+    }
+
+    .input1 input:focus ~ .label,
+    .input1 input:not(:placeholder-shown) ~ .label {
+        display: none;
+    }
+
+    .input2 input {
+        position: absolute;
+        width: 218px;
+        height: 18px;
+        left: 23px;
+        top: 79px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+        color: #AFAFAF;
+        outline: none;
+        border: none;
+        background: none;
+    }
+
+    .input2 .label {
+        position: absolute;
+        width: 109px;
+        left: 23px;
+        top: 79px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+        color: #AFAFAF;
+    }
+
+    .input2 input:focus ~ .label,
+    .input2 input:not(:placeholder-shown) ~ .label {
+        display: none;
+    }
+
+    .price .p1 {
+        position: absolute;
+        width: 73px;
+        height: 16px;
+        left: 19px;
+        top: 103px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 8px;
+        line-height: 16px;
+        color: #000000;
+    }
+
+    .button1 {
+        position: absolute;
+        width: 150px;
+        height: 34px;
+        left: 10px;
+        top: 117px;
+        background-color: #008826;
+        border-radius: 10px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .button1 .a1 {
+        position: absolute;
+        left: 47px;
+        top: 0px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 33px;
+        color: #FFFFFF;
+    }
+
+    .button1 img {
+        position: absolute;
+        width: 16.21px;
+        height: 14px;
+        left: 25px;
+        top: 10px;
+    }
+
+    .product-chest {
+        display: none;
+    }
+    
+    .footer-bg {
+        position: absolute;
+        width: 428px;
+        height: 510px;
+        left: 0px;
+        top: 634px;
+        background-color: #522828;
+        box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.25);
+    }
+
+    .footer-logo-phone {
+        position: absolute;
+        top: 693.56px;
+        left: 39px;
+    }
+
+    .more {
+        position: absolute;
+        left: 279px;
+        top: 789px;
+    }
+
+    .more .h1 {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .more-a a {
+        width: 120px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        color: #FFFFFF;
+        margin-bottom: 15px;
+    }
+
+    .more .a1 {
+        position: absolute;
+        left: 0;
+        top: 40px;
+    }
+
+    .more .a2 {
+        position: absolute;
+        left: 0;
+        top: 75px;
+    }
+
+    .more .a3 {
+        position: absolute;
+        left: 0;
+        top: 110px;
+    }
+
+    .more .a4 {
+        position: absolute;
+        left: 0;
+        top: 145px;
+    }
+
+    .contacts {
+        position: absolute;
+        left: 39px;
+        top: 898px;
+    }
+
+    .contacts .h1 {
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1, .a2 {
+        width: 110px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 15px;
+        color: #FFFFFF;
+    }
+
+    .contacts .a1 {
+        position: absolute;
+        left: 0;
+        top: 45px;
+    }
+
+    .contacts .a2 {
+        position: absolute;
+        left: 0;
+        top: 80px;
+    }
+
+    .socseti {
+        position: absolute;
+        left: 39px;
+        top: 789px;
+    }
+
+    .socseti .h1 {
+        position: absolute;
+        width: 150px;
+        top: 0;
+        left: 0;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+    }
+
+    .footer-img .a1 {
+        position: absolute;
+        top: 45px;
+        left: 0;
+    }
+
+    .footer-img .a2 {
+        position: absolute;
+        top: 46px;
+        left: 35px;
+    }
+
+    .footer-img .a3 {
+        position: absolute;
+        top: 47px;
+        left: 78px;
+    }
+
+    .footer-img .a4 {
+        position: absolute;
+        top: 47px;
+        left: 115px;
+    }
+
+    .footer-line {
+        position: absolute;
+        width: 300px;
+        height: 1px;
+        left: 64px;
+        top: 1041px;
+        background-color: #b1b1b1;
+    }
+
+    footer .h1 {
+        position: absolute;
+        left: 71px;
+        top: 1072px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+    .menu-phone {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 100;
+    }
+
+    .menu-phone .menu-bg {
+        position: absolute;
+        width: 315px;
+        height: 900px;
+        left: 0px;
+        top: 0px;
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+
+    .menu-phone .menu-logo {
+        position: absolute;
+        left: 34px;
+        top: 53px;
+    }
+
+    .menu-button {
+        position: absolute;
+        left: 39px;
+        top: 164px;
+    }
+
+    .menu-button div {
+        margin-top: 30px;
+    }
+
+    .menu-button a {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+    }
+
+    .show-menu {
+        display: block;
+    }
+}
